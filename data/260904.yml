@@ -7,7 +7,7 @@ about:
   head: e983aaf
   archived: false
   latestVersion: v2.5.0
-  collectedAt: 2026-09-04T19:56:08Z
+  collectedAt: 2026-09-04T20:44:17Z
 timeline:
   created: 2024-10-04
   lastCommit: 2026-09-04
@@ -83,5 +83,63 @@ total:
   openIssue: 4
   commit: 544
 ---
+path: /home/runner/.x-repo/github.com/anlar/tewi
+collectedAt: 2026-09-04T20:44:18Z
+loc:
+  Python:
+    code: 14639
+    comments: 1073
+    blanks: 2750
+    files: 73
+  Json:
+    code: 191
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 184
+    comments: 8
+    blanks: 10
+    files: 2
+  Xml:
+    code: 128
+    comments: 0
+    blanks: 10
+    files: 1
+  Toml:
+    code: 74
+    comments: 0
+    blanks: 9
+    files: 2
+  Makefile:
+    code: 43
+    comments: 0
+    blanks: 19
+    files: 1
+  Sh:
+    code: 29
+    comments: 6
+    blanks: 24
+    files: 2
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 405
+    blanks: 164
+    files: 2
+  Text:
+    code: 0
+    comments: 564
+    blanks: 121
+    files: 2
+total:
+  code: 15289
+  comments: 2056
+  blanks: 3107
+  files: 87
 ---
 
