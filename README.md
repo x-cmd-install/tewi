@@ -12,6 +12,18 @@ Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 x install tewi
 ```
 
+## Code insight
+
+Total: **15,289** lines of code across **79** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 14,639 | 1,073 | 2,750 | 73 |
+| Json | 191 | 0 | 0 | 1 |
+| Yaml | 184 | 8 | 10 | 2 |
+| Xml | 128 | 0 | 10 | 1 |
+| Toml | 74 | 0 | 9 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/anlar/tewi>
@@ -34,21 +46,16 @@ x install tewi
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 3 | 5 | 0 | 1 | 0 | 0 |
-| 360d | 2025-09-15 | 12 | 41 | 0 | 39 | 4 | 0 |
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-12 | 1 | 2 | 0 | 0 | 0 | 18 |
+| 90d | 2026-06-12 | 3 | 5 | 0 | 1 | 0 | 30 |
+| last180d | 2026-03-14 | 3 | 5 | 0 | 3 | 0 | 35 |
+| 360d | 2025-09-15 | 12 | 41 | 0 | 39 | 4 | 310 |
+| last720d | 2024-09-20 | 24 | 82 | 0 | 87 | 4 | 544 |
 
-## Code size
+## Distribution status
 
-Total: **15,289** lines of code across **79** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 14,639 | 1,073 | 2,750 | 73 |
-| Json | 191 | 0 | 0 | 1 |
-| Yaml | 184 | 8 | 10 | 2 |
-| Xml | 128 | 0 | 10 | 1 |
-| Toml | 74 | 0 | 9 | 2 |
+Reported by **4** distros on [repology.org](https://repology.org/project/tewi). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -59,4 +66,4 @@ Install metadata for tewi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:28:57Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:00:25Z._
