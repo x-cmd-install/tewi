@@ -46,12 +46,12 @@ Total: **15,289** lines of code across **79** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-13 | 1 | 2 | 0 | 0 | 0 | 18 |
-| 90d | 2026-06-13 | 3 | 5 | 0 | 1 | 0 | 30 |
-| last180d | 2026-03-15 | 3 | 5 | 0 | 3 | 0 | 35 |
-| 360d | 2025-09-16 | 12 | 41 | 0 | 39 | 4 | 310 |
-| last720d | 2024-09-21 | 24 | 82 | 0 | 87 | 4 | 544 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-15 | 1 | 2 | 0 | 0 | 0 | 18 |
+| 90d | 2026-06-15 | 3 | 5 | 0 | 1 | 0 | 25 |
+| last180d | 2026-03-17 | 3 | 5 | 0 | 3 | 0 | 35 |
+| 360d | 2025-09-18 | 12 | 41 | 0 | 39 | 4 | 310 |
+| last720d | 2024-09-23 | 24 | 82 | 0 | 87 | 4 | 544 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for tewi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:17:48Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:47:09Z._
