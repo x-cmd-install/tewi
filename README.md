@@ -4,7 +4,7 @@
 
 Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 
-![tewi](https://repo.x-cmd.io/tewi.svg)
+[![x-cmd/install — tewi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tewi.svg)](https://x-cmd.com/install/tewi)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install tewi
 
 ## Code insight
 
-Total: **15,664** lines of code across **79** files in the top 5 languages.
+Total: **15,719** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,003 | 1,073 | 2,820 | 73 |
+| Python | 15,058 | 1,073 | 2,835 | 73 |
 | Json | 191 | 0 | 0 | 1 |
 | Yaml | 184 | 8 | 10 | 2 |
 | Xml | 128 | 0 | 10 | 1 |
@@ -32,7 +32,7 @@ Total: **15,664** lines of code across **79** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.5.0` (2026-07-27)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **15,664** lines of code across **79** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 83 · **Open PRs**: 0 · **Closed issues**: 88 · **Open issues**: 3 · **Commits**: 565
+- **Releases**: 24 · **Merged PRs**: 84 · **Open PRs**: 0 · **Closed issues**: 89 · **Open issues**: 2 · **Commits**: 571
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 0 | 0 | 29 |
-| last60d | 2026-07-20 | 1 | 3 | 0 | 0 | 0 | 39 |
-| 90d | 2026-06-20 | 3 | 4 | 0 | 1 | 0 | 46 |
-| last180d | 2026-03-22 | 3 | 6 | 0 | 3 | 0 | 56 |
-| 360d | 2025-09-23 | 12 | 42 | 0 | 40 | 3 | 331 |
-| last720d | 2024-09-28 | 24 | 83 | 0 | 88 | 3 | 565 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 0 | 0 | 35 |
+| last60d | 2026-07-22 | 1 | 4 | 0 | 0 | 0 | 36 |
+| 90d | 2026-06-22 | 2 | 5 | 0 | 1 | 0 | 50 |
+| last180d | 2026-03-24 | 3 | 7 | 0 | 3 | 0 | 62 |
+| 360d | 2025-09-25 | 12 | 43 | 0 | 41 | 2 | 337 |
+| last720d | 2024-09-30 | 24 | 84 | 0 | 89 | 2 | 571 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for tewi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:45:06Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:53Z._
