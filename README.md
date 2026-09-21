@@ -32,7 +32,7 @@ Total: **15,719** lines of code across **79** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.5.0` (2026-07-27)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **15,719** lines of code across **79** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 84 · **Open PRs**: 0 · **Closed issues**: 89 · **Open issues**: 2 · **Commits**: 571
+- **Releases**: 24 · **Merged PRs**: 84 · **Open PRs**: 0 · **Closed issues**: 89 · **Open issues**: 2 · **Commits**: 572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 2 | 0 | 0 | 0 | 35 |
-| last60d | 2026-07-22 | 1 | 4 | 0 | 0 | 0 | 36 |
-| 90d | 2026-06-22 | 2 | 5 | 0 | 1 | 0 | 50 |
-| last180d | 2026-03-24 | 3 | 7 | 0 | 3 | 0 | 62 |
-| 360d | 2025-09-25 | 12 | 43 | 0 | 41 | 2 | 337 |
-| last720d | 2024-09-30 | 24 | 84 | 0 | 89 | 2 | 571 |
+| 30d | 2026-08-22 | 0 | 2 | 0 | 0 | 0 | 36 |
+| last60d | 2026-07-23 | 1 | 4 | 0 | 0 | 0 | 37 |
+| 90d | 2026-06-23 | 2 | 5 | 0 | 1 | 0 | 51 |
+| last180d | 2026-03-25 | 3 | 7 | 0 | 3 | 0 | 63 |
+| 360d | 2025-09-26 | 12 | 43 | 0 | 41 | 2 | 338 |
+| last720d | 2024-10-01 | 24 | 84 | 0 | 89 | 2 | 572 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for tewi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:53Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:53:11Z._
