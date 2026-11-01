@@ -2,8 +2,8 @@
   srcname: tewi
   binname: tewi
   visiblename: tewi
-  version: 3.0.0
-  origversion: 3.0.0-1
+  version: 3.1.0
+  origversion: 3.1.0-1
   status: newest
   summary: Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
   maintainers:
@@ -14,7 +14,7 @@
   srcname: tewi-torrent
   binname: tewi-torrent
   visiblename: tewi-torrent
-  version: 3.0.0
+  version: 3.1.0
   origversion: null
   status: newest
   summary: Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
