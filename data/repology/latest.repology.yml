@@ -2,22 +2,14 @@
   srcname: tewi
   binname: tewi
   visiblename: tewi
-  version: 3.1.0
-  origversion: 3.1.0-1
+  version: 4.0.0
+  origversion: 4.0.0-1
   status: newest
   summary: Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
   maintainers:
     - dominiquini@aur
   licenses:
     - GPL-3.0
-- repo: pypi
-  srcname: tewi-torrent
-  binname: tewi-torrent
-  visiblename: tewi-torrent
-  version: 3.1.0
-  origversion: null
-  status: newest
-  summary: Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - repo: pypi
   srcname: tewi-transmission
   binname: tewi-transmission
@@ -26,6 +18,14 @@
   origversion: null
   status: legacy
   summary: Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
+- repo: pypi
+  srcname: tewi-torrent
+  binname: tewi-torrent
+  visiblename: tewi-torrent
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
 - repo: rosa_13
   subrepo: contrib/release
   srcname: tewi
