@@ -14,11 +14,11 @@ x install tewi
 
 ## Code insight
 
-Total: **21,608** lines of code across **97** files in the top 5 languages.
+Total: **21,674** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 20,897 | 1,315 | 3,991 | 91 |
+| Python | 20,963 | 1,316 | 4,007 | 91 |
 | Yaml | 199 | 14 | 12 | 2 |
 | Json | 191 | 0 | 0 | 1 |
 | Xml | 128 | 0 | 10 | 1 |
@@ -31,8 +31,8 @@ Total: **21,608** lines of code across **97** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.1.0` (2026-10-31)
-- **Last commit**: 2026-11-05
+- **Latest**: `v4.0.0` (2026-11-06)
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **21,608** lines of code across **97** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 90 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 1 · **Commits**: 653
+- **Releases**: 28 · **Merged PRs**: 90 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 1 · **Commits**: 661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 3 | 0 | 1 | 0 | 64 |
-| last60d | 2026-09-07 | 3 | 8 | 0 | 2 | 0 | 109 |
-| 90d | 2026-08-08 | 3 | 8 | 0 | 2 | 0 | 117 |
-| last180d | 2026-05-10 | 6 | 13 | 0 | 3 | 0 | 144 |
-| 360d | 2025-11-11 | 15 | 47 | 0 | 43 | 1 | 398 |
-| last720d | 2024-11-16 | 21 | 76 | 0 | 58 | 1 | 492 |
+| 30d | 2026-10-08 | 3 | 3 | 0 | 1 | 0 | 72 |
+| last60d | 2026-09-08 | 4 | 8 | 0 | 2 | 0 | 117 |
+| 90d | 2026-08-09 | 4 | 8 | 0 | 2 | 0 | 125 |
+| last180d | 2026-05-11 | 7 | 13 | 0 | 3 | 0 | 152 |
+| 360d | 2025-11-12 | 16 | 47 | 0 | 43 | 1 | 406 |
+| last720d | 2024-11-17 | 22 | 76 | 0 | 58 | 1 | 500 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for tewi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:39:41Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:10Z._
