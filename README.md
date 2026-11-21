@@ -14,15 +14,15 @@ x install tewi
 
 ## Code insight
 
-Total: **21,674** lines of code across **97** files in the top 5 languages.
+Total: **23,516** lines of code across **102** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 20,963 | 1,316 | 4,007 | 91 |
+| Python | 22,804 | 1,325 | 4,413 | 96 |
 | Yaml | 199 | 14 | 12 | 2 |
 | Json | 191 | 0 | 0 | 1 |
 | Xml | 128 | 0 | 10 | 1 |
-| Toml | 85 | 1 | 12 | 2 |
+| Toml | 84 | 1 | 12 | 2 |
 
 ## Source
 
@@ -32,26 +32,26 @@ Total: **21,674** lines of code across **97** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.0` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 199 · **Forks**: 3 · **Open issues**: 93 · **Contributors**: 3
+- **Stars**: 198 · **Forks**: 3 · **Open issues**: 93 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 90 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 1 · **Commits**: 661
+- **Releases**: 28 · **Merged PRs**: 90 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 1 · **Commits**: 677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 2 | 0 | 0 | 0 | 54 |
-| last60d | 2026-09-20 | 4 | 6 | 0 | 2 | 0 | 89 |
-| 90d | 2026-08-21 | 4 | 8 | 0 | 2 | 0 | 125 |
-| last180d | 2026-05-23 | 7 | 13 | 0 | 3 | 0 | 152 |
-| 360d | 2025-11-24 | 14 | 40 | 0 | 31 | 1 | 321 |
-| last720d | 2024-11-29 | 22 | 76 | 0 | 57 | 1 | 500 |
+| 30d | 2026-10-22 | 2 | 2 | 0 | 0 | 0 | 70 |
+| last60d | 2026-09-22 | 4 | 5 | 0 | 2 | 0 | 105 |
+| 90d | 2026-08-23 | 4 | 8 | 0 | 2 | 0 | 141 |
+| last180d | 2026-05-25 | 7 | 13 | 0 | 3 | 0 | 168 |
+| 360d | 2025-11-26 | 14 | 37 | 0 | 30 | 1 | 337 |
+| last720d | 2024-12-01 | 22 | 76 | 0 | 57 | 1 | 516 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for tewi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:51:54Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:18:25Z._
