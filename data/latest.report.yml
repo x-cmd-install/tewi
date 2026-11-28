@@ -2,12 +2,12 @@ about:
   description: "Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)"
   license: GPL-3.0
   homepage: 
-  head: 612c0c8
+  head: 98842d8
   archived: false
   latestVersion: "v4.0.0"
   latestRelease: "v4.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:32:05Z
+  collectedAt: 2026-11-28T07:45:26Z
 timeline:
   created: 2024-10-04
   lastCommit: 2026-11-27
@@ -23,76 +23,76 @@ popularity:
   pullRequest: 95
   issue: 93
 language:
-  Python: 1156126
-  CSS: 15779
+  Python: 1193366
+  CSS: 16298
   Shell: 4006
   Makefile: 3217
-totalBytes: 1179128
+totalBytes: 1216887
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
     mergedPR: 2
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 133
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 3
     mergedPR: 6
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 0
+    commit: 172
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 4
     mergedPR: 9
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 0
+    commit: 210
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 7
     mergedPR: 14
     openPR: 0
     closedIssue: 3
     openIssue: 0
-    commit: 0
+    commit: 233
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 12
-    mergedPR: 35
+    mergedPR: 34
     openPR: 0
-    closedIssue: 31
+    closedIssue: 30
     openIssue: 0
-    commit: 0
+    commit: 390
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 22
     mergedPR: 77
     openPR: 0
     closedIssue: 54
     openIssue: 0
-    commit: 575
+    commit: 585
 total:
   release: 28
   mergedPR: 91
   openPR: 0
   closedIssue: 93
   openIssue: 0
-  commit: 736
+  commit: 746
 ---
 path: /home/runner/.x-repo/github.com/anlar/tewi
-collectedAt: 2026-11-27T08:32:07Z
+collectedAt: 2026-11-28T07:45:27Z
 loc:
   Python:
-    code: 28345
-    comments: 1364
-    blanks: 5799
-    files: 124
+    code: 29275
+    comments: 1403
+    blanks: 6029
+    files: 127
   Yaml:
     code: 167
     comments: 9
@@ -120,7 +120,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 651
+    comments: 653
     blanks: 214
     files: 3
   Text:
@@ -129,10 +129,10 @@ loc:
     blanks: 226
     files: 3
 total:
-  code: 28745
-  comments: 2746
-  blanks: 6329
-  files: 138
+  code: 29675
+  comments: 2787
+  blanks: 6559
+  files: 141
 ---
 
 ---
